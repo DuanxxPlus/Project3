@@ -3,7 +3,7 @@
   "locations": ["安卓","IOS"],
   "area": null,
   "areas": null,
-  "img": "../../images/vip_list.png",
+  "img": "./images/vip_list.png",
   "list": [
     {
       "title": "《腾讯视频VIP》QQ账号登陆免验证电影综艺免费看",

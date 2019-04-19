@@ -3,7 +3,7 @@
   "locations": ["PC"],
   "area": null,
   "areas": null,
-  "img": "../../images/cf_list.png",
+  "img": "./images/cf_list.png",
   "list": [
     {
       "title": "BD18周年套新年套120V16王者荣耀全皮肤CFS赛事全皮肤",
