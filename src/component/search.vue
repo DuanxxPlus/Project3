@@ -40,7 +40,7 @@
     },
     mounted(){
       var t=this;
-      this.$http.get('./json/hotSearch.json').then(function (res) {
+      this.$http.get('../json/hotSearch.json').then(function (res) {
         t.list=res.data.node;
       }).catch().then();
     }
