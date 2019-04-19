@@ -41,7 +41,7 @@
     mounted(){
       var t=this;
       this.$http.get('../json/hotSearch.json').then(function (res) {
-        t.list=res.data.node;
+        t.list=res.data.list;
       }).catch().then();
     }
   }
